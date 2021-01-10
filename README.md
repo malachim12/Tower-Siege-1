@@ -1,2 +1,1 @@
-# Tower-Siege-1
-Just a tower
+# TowerSiege-1
